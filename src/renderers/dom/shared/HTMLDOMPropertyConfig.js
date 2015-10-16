@@ -155,6 +155,7 @@ var HTMLDOMPropertyConfig = {
     srcDoc: MUST_USE_PROPERTY,
     srcLang: null,
     srcSet: MUST_USE_ATTRIBUTE,
+    srcLang: null,
     start: HAS_NUMERIC_VALUE,
     step: null,
     style: null,
@@ -231,6 +232,7 @@ var HTMLDOMPropertyConfig = {
     spellCheck: 'spellcheck',
     srcDoc: 'srcdoc',
     srcSet: 'srcset',
+    srcLang: 'srclang'
   },
 };
 
